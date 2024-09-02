@@ -7,5 +7,5 @@ docker build -t chrome-selenium .
 
 ### Run Docker Container
 ```bash
-docker run -d --name chrome-selenium chrome-selenium
+docker run -rm chrome-selenium
 ```
