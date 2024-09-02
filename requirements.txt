@@ -1,0 +1,8 @@
+regex==2022.10.31
+pyzmail36==1.0.5
+selenium==4.8.0
+selenium-wire==5.1.0
+coincurve==20.0.0
+pysha3==1.0.2
+IMAPClient==3.0.1
+blinker==1.7.0
